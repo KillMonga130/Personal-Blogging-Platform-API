@@ -1,0 +1,16 @@
+{
+  "name": "personal-blogging-platform-api",
+  "version": "1.0.0",
+  "description": "This is a RESTful API for a personal blogging platform built with Fastify and MongoDB.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^4.28.1",
+    "mongoose": "^8.5.1"
+  }
+}
